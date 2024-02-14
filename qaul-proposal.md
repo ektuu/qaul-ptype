@@ -151,7 +151,7 @@ In a peer-to-peer (P2P) application like qaul,  the best approach to implement a
     
 
 For writing the tests, standard test library of rust would be used (`std::test`) 
-
+![Image might be down](https://github.com/claddyy/qaul-ptype/blob/main/qaul%20RPC%20User%20Authentication%20Process.png)
 ### Protobuf Structure
 
 The basic structure of the [protobuf communication structure](https://github.com/qaul/qaul.net/blob/main/rust/libqaul/src/rpc/qaul_rpc.proto) for the project, already provides us a foundation for modular and extensible Remote Procedure Call interactions between the GUI and libqaul. We extend this to accommodate the authentication and session management functionalities. 
