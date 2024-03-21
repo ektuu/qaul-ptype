@@ -2,5 +2,5 @@
 //     println!("Hello, world!");
 // }
 fn main() {
-    println!("hi mehit beroo");
+    println!("Hi trying to merge my first PR today");
 }
